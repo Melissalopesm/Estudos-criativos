@@ -1,2 +1,2 @@
 # Programação Criativa
-Repositório dedicado ao curso Programação Criativa de Alexandre Villares e Monica Rizzolli [Programação Criativa](http://arteprog.space/programacao-criativa/)
+Repositório dedicado ao curso [Programação Criativa](http://arteprog.space/programacao-criativa/) de Alexandre Villares e Monica Rizzolli 
